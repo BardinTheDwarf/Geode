@@ -1,6 +1,10 @@
 {
   "block.geode.smooth_endstone": "Гладкий эндерняк",
   "block.geode.budding_sculk": "Цветущий скалк",
+  "block.geode.large_echo_bud": "Большой бутон эха",
+  "block.geode.medium_echo_bud": "Средний бутон эха",
+  "block.geode.small_echo_bud": "Малый бутон эха",
+  "block.geode.echo_crystal": "Кристалл эха",
   "block.geode.budding_nether_quartz": "Цветущий незер-кварц",
   "block.geode.budding_blackstone_quartz": "Цветущий чернитный кварц",
   "block.geode.budding_basalt_quartz": "Цветущий базальтовый кварц",
